@@ -20,7 +20,7 @@ The project is organized into three main files:
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/todo-list.git
+   git clone https://github.com/Shubham4673/TODO-LIST.git
 
 
 License
